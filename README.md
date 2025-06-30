@@ -1,2 +1,2 @@
 # Employee-Management
-This Project is related to the employee management by using hibernate in DB and JSP in front end.
+This is a java Project related to the employee management by using hibernate in DB and JSP in front end.
